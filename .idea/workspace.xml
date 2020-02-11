@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1b3bcdc-2614-4fa8-8fdc-a026b42ff552" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xexv3oJzlXiDbIRMCW7Ta8djbc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1b3bcdc-2614-4fa8-8fdc-a026b42ff552" name="Default Changelist" comment="" />
+      <created>1581420588579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581420588579</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="184" key="#Project_Structure" timestamp="1581420632129">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#Project_Structure/-1680.25.1680.1020/0.0.1920.1050@0.0.1920.1050" timestamp="1581420632129" />
+    <state x="661" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1581420592122">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="661" y="349" key="com.intellij.ide.util.TipDialog/-1680.25.1680.1020/0.0.1920.1050@0.0.1920.1050" timestamp="1581420592122" />
+    <state x="623" y="244" key="search.everywhere.popup" timestamp="1581420621164">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="244" key="search.everywhere.popup/-1680.25.1680.1020/0.0.1920.1050@0.0.1920.1050" timestamp="1581420621164" />
+  </component>
+</project>
